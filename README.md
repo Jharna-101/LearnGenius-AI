@@ -2,9 +2,6 @@
 
 An AI-powered learning plan generator that creates personalized study guides in seconds. Optimized for visual, auditory, and kinesthetic learners using Groq's lightning-fast LLaMA.
 
-[![Live Demo](https://img.shields.io/badge/Demo-LearnGenius-blue?style=for-the-badge&logo=vercel)](https://learn-genius.vercel.app)
-
-
 ## ✨ Features
 
 - **AI-Powered Plans**: Get tailored explanations and resources
